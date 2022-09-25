@@ -1,2 +1,2 @@
 # CS201
-CS201 project files
+I'm going to store my CS201 project files here. We'll be working in C++.
