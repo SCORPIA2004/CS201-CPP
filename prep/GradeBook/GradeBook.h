@@ -16,6 +16,7 @@ public:
     int getCourseNo();
     void displayMessage(string msg);
     void displayMessage();
+    double computeAvg();
 
 private:
     int courseNo;
